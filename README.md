@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <strong>NOTE:</strong> This requires that you have the FreeTube desktop application downloaded and installed.
+  <strong>NOTE:</strong> This requires that you have the  <a href="https://github.com/FreeTubeApp/FreeTube">Freetube</a> desktop application downloaded and installed.
 </p>
 
 ---
