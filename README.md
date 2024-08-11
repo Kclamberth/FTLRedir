@@ -1,7 +1,7 @@
 <h1 align="center">FTLRedirect: FreeTubeLight Redirection</h1>
 
 <p align="center">
-  <img src="https://addons.mozilla.org/user-media/addon_icons/2861/2861970-128.png?modified=32bbdf09" alt="Example Image"/>
+  <img src="https://addons.mozilla.org/user-media/addon_icons/2861/2861970-128.png?modified=32bbdf09&1723409215496" alt="Example Image"/>
 </p>
 
 <p align="center">
