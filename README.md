@@ -36,7 +36,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: middle;">
-      <strong>Auto close your redirected tabs!</strong>
+      <strong>Auto close your redirected tabs! Default: 5 Seconds.</strong>
       <br>
       <img src="https://addons.mozilla.org/user-media/previews/full/303/303457.png?modified=1723409303" alt="Example Image" style="width:100%; max-width:300px;">
       <br>
