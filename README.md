@@ -22,3 +22,13 @@
 <p align="center">
   <strong>NOTE:</strong> This requires that you have the FreeTube desktop application downloaded and installed.
 </p>
+
+---
+<p align="center">
+  <strong>Installation:</strong>
+  <br>
+  Simply go to the <a href="https://addons.mozilla.org/en-US/firefox/addon/ftlredirect/">FTLRedirect Add-on</a> link and select <code>Add to Firefox</code>.
+  <br>
+  Make sure it's enabled via the puzzle icon in the top right of the browser. 
+</p>
+
