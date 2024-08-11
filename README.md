@@ -32,3 +32,22 @@
   Make sure it's enabled via the puzzle icon in the top right of the browser. 
 </p>
 
+---
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: middle;">
+      <strong>Customize Redirected Tab timer: Default is 5 seconds.</strong>
+      <br>
+      <img src="https://addons.mozilla.org/user-media/previews/full/303/303440.png?modified=1723380211" alt="Example Image" style="width:100%; max-width:300px;">
+      <br>
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: middle;">
+      <strong>Simple Extension, easy to use!</strong>
+      <br>
+      <img src="https://addons.mozilla.org/user-media/previews/full/303/303441.png?modified=1723380211" alt="Example Image" style="width:100%; max-width:300px;">
+      <br>
+    </td>
+  </tr>
+</table>
+
+
