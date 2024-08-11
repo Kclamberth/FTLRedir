@@ -38,7 +38,7 @@
     <td style="width: 50%; text-align: center; vertical-align: middle;">
       <strong>Customize Redirected Tab timer: Default is 5 seconds.</strong>
       <br>
-      <img src="https://addons.mozilla.org/user-media/previews/full/303/303440.png?modified=1723380211" alt="Example Image" style="width:100%; max-width:300px;">
+      <img src="https://addons.mozilla.org/user-media/previews/full/303/303457.png?modified=1723409303" alt="Example Image" style="width:100%; max-width:300px;">
       <br>
     </td>
     <td style="width: 50%; text-align: center; vertical-align: middle;">
