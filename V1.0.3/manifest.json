@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "FTLredirect",
+  "version": "1.0.3",
+  "description": "Redirects youtube links to freetube application.",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "storage",
+    "<all_urls>"
+  ]
+}
+
