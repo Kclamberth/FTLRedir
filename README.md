@@ -16,7 +16,7 @@
 
 <p align="center">
   Extremely light application, does one thing and ONLY that one thing. A simple redirection of links from YouTube to the FreeTube application.
-  There are no bells or whistles. No switches. No gadgets. Nothing fancy here. This tiny extension is under 1KB and has only 1 job to do.
+  There are no bells or whistles. No switches. No gadgets. Nothing fancy here. This tiny extension is under 1MB and has only 1 job to do.
 </p>
 
 <p align="center">
