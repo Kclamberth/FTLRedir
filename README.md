@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  Extremely light application, does one thing and ONLY that one thing. A simple redirect of links from YouTube to the FreeTube application.
+  Extremely light application, does one thing and ONLY that one thing. A simple redirection of links from YouTube to the FreeTube application.
 </p>
 
 <p align="center">
