@@ -38,7 +38,7 @@
     <td style="width: 50%; text-align: center; vertical-align: middle;">
       <strong>Simple Extension, easy to use!</strong>
       <br>
-      <img src="https://addons.mozilla.org/user-media/previews/full/303/303460.png?modified=1723409815" alt="Example Image" style="width:100%; max-width:300px;">
+      <img src="https://addons.mozilla.org/user-media/previews/thumbs/303/303812.jpg?modified=1723780435" alt="Example Image" style="width:100%; max-width:300px;">
       <br>
     </td>
     <td style="width: 50%; text-align: center; vertical-align: middle;">
