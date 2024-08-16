@@ -37,13 +37,13 @@
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: middle;">
       <br>
-      <strong>Simple Extension, easy to use!</strong>
+      <strong text-align: center >Simple Extension, easy to use!</strong>
       <br>
       <img src="https://addons.mozilla.org/user-media/previews/full/303/303460.png?modified=1723780431" alt="Example Image" style="width:100%; max-width:300px;">
       <br>
     </td>
     <td style="width: 50%; text-align: center; vertical-align: middle;">
-      <strong>Auto close your redirected tabs!</strong>
+      <strong text-align: center">Auto close your redirected tabs! Default: 5 Seconds.</strong> 
       <br>
       <img src="https://addons.mozilla.org/user-media/previews/full/303/303812.png?modified=1723780435" alt="Example Image" style="width:100%; max-width:300px;">
       <br>
