@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 200px;
+	    padding-bottom: 10px;
+	    background-color: #23222b;
+	    color: #FFF;
+        }
+        input {
+            width: 50px;
+            margin-left: 10px;
+	    color: #23222b;
+        }
+	label {
+	    font-weight: bold;
+	    margin-left: 5px;
+	    padding-bottom: 10px;
+	    color: #e9e9ea;
+	}
+	br {
+	   margin: 10px;
+	}
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 34px;
+            height: 7px;
+        }
+        .switch input { 
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            transition: .4s;
+            border-radius: 34px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 16px;
+            width: 16px;
+            left: 3px;
+            bottom: 1px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider {
+            background-color: #2196F3;
+        }
+        input:focus + .slider {
+            box-shadow: 0 0 1px #2196F3;
+        }
+        input:checked + .slider:before {
+            transform: translateX(14px);
+        }
+        img.icon {
+            vertical-align: middle;
+            margin-left: 4px;
+	    height: 50px;
+	    width: 50px;
+	    margin-top: -35px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <label for="toggleRedirect">Enable Redirect:</label>
+        <label class="switch">
+            <input type="checkbox" id="toggleRedirect" checked>
+            <span class="slider"></span>
+        </label>
+
+        <label for="timer">Tab Auto TTK: </label>
+	<br>
+        <input type="number" id="timer" min="0" max="10" value="5"> Seconds
+	<img src="../icons/icon.png" alt="Timer Icon" class="icon">
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
+
